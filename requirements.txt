@@ -3,6 +3,7 @@ panel
 scipy
 pandas
 matplotlib
-openpyxl
 jupyter
+hvplot
+styleframe
 hvplot
