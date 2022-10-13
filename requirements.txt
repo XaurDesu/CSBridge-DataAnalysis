@@ -8,3 +8,4 @@ hvplot
 styleframe
 hvplot
 pylint
+plotly
